@@ -322,10 +322,8 @@ left:142px;
 
 .membership__steps {
   list-style-type: none;
-  padding: 0;
   margin: 100px 0 0;
   display:flex;
-  padding:20px;
   gap:40px;
   flex-wrap: nowrap;
   justify-content:center;
