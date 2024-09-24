@@ -340,6 +340,7 @@ left:142px;
   line-height: 30px;
   font-weight: 700;
   align-items: center;
+  display: flex;
 }
 
 .step__icon {
@@ -354,6 +355,7 @@ left:142px;
   box-sizing: border-box;
   padding: 60px 80px 60px 80px;
   background-color: #1f1f1f;
+  color: #ffffff;
 }
 
 .footer__columns {
